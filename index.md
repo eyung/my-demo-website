@@ -1,5 +1,5 @@
 ---
-title: Welcome to my website
+title: Home
 ---
 
 This site was built using [GitHub Pages](https://pages.github.com/). 
